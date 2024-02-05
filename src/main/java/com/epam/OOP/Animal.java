@@ -18,7 +18,7 @@ public class Animal {
             }else return "This animal is mostly "+ color +". It has " + numberOfPaws + " paws and no fur.";
         }else{
             if (hasFur){
-                return "This animal is mostly "+ color +". It has " + numberOfPaws + " paw and a fur.";
+                return "This animal is mostly "+ color +". It has " + numberOfPaws + " paws and a fur.";
             }else return "This animal is mostly "+ color +". It has " + numberOfPaws + " paws and no fur.";
 
         }
